@@ -4,5 +4,5 @@
 编译方式
 cd build
 rm -rf*
-cmake ..
+cmake .
 make
